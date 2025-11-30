@@ -10,7 +10,7 @@ through **Vercel v0**.
 
 ## 🚀 Live Demo  
 🔗 **Live Deployed Link:** _Add your Vercel link here_  
-🔗 **GitHub Repository:** _Add your repo link here_  
+🔗 **GitHub Repository:** https://github.com/XINN1123/Urban-Flare
 
 ---
 
